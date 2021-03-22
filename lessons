@@ -1,102 +1,127 @@
 {
   "lessons": [
     {
+      "id": 0
       "day": "1.gün",
       "subject": "Temel Kavramlar"
     },
     {
+      "id": 1
       "day": "2.gün",
       "subject": "Sayı Basamakları"
     },
     {
+      "id": 2
       "day": "3.gün",
       "subject": "Bölme/Bölünebilme"
     },
     {
+      "id": 3
       "day": "4.gün",
       "subject": "EBOB–EKOK"
     },
     {
+      "id": 4
       "day": "5.gün",
       "subject": "Rasyonel Sayılar"
     },
     {
+      "id": 5
       "day": "6.gün",
       "subject": "Basit Eşitsizlikler"
     },
     {
+      "id": 6
       "day": "7.gün",
       "subject": "Mutlak Değer"
     },
     {
+      "id": 7
       "day": "8.gün",
       "subject": "Üslü Sayılar"
     },
     {
+      "id": 8
       "day": "9.gün",
       "subject": "Köklü Sayılar"
     },
     {
+      "id": 9
       "day": "10.gün",
       "subject": "Çarpanlara Ayırma"
     },
     {
+      "id": 10
       "day": "11.gün",
       "subject": "Oran Orantı"
     },
     {
+      "id": 11
       "day": "12.gün",
       "subject": "Denklem Çözme"
     },
     {
+      "id": 12
       "day": "13.gün",
       "subject": "Problemler"
     },
     {
+      "id": 13
       "day": "14.gün",
       "subject": "Problemler"
     },
     {
+      "id": 14
       "day": "15.gün",
       "subject": "Problemler"
     },
     {
+      "id": 15
       "day": "16.gün",
       "subject": "Problemler"
     },
     {
+      "id": 16
       "day": "17.gün",
       "subject": "Kümeler"
     },
     {
+      "id": 17
       "day": "18.gün",
       "subject": "Kartezyen Çarpım"
     },
     {
+      "id": 18
       "day": "19.gün",
       "subject": "Mantık"
     },
     {
+      "id": 19
       "day": "20.gün",
       "subject": "Fonskiyonlar"
     },
     {
+      "id": 20
       "day": "21.gün",
       "subject": "Polinomlar"
     },
     {
+      "id": 21
       "day": "22.gün",
       "subject": "2.Dereceden Denklemler"
     },
     {
+      "id": 22
       "day": "23.gün",
       "subject": "Permütasyon/Kombinasyon"
     },
     {
+      "id": 23
       "day": "24.gün",
       "subject": "Olasılık"
     },
     {
+      "id": 24
       "day": "25.gün",
       "subject": "İstatistik"
     }
