@@ -1,0 +1,104 @@
+{
+  "lessons": [
+    {
+      "day": "1.gün",
+      "subject": "Temel Kavramlar"
+    },
+    {
+      "day": "2.gün",
+      "subject": "Sayı Basamakları"
+    },
+    {
+      "day": "3.gün",
+      "subject": "Bölme/Bölünebilme"
+    },
+    {
+      "day": "4.gün",
+      "subject": "EBOB–EKOK"
+    },
+    {
+      "day": "5.gün",
+      "subject": "Rasyonel Sayılar"
+    },
+    {
+      "day": "6.gün",
+      "subject": "Basit Eşitsizlikler"
+    },
+    {
+      "day": "7.gün",
+      "subject": "Mutlak Değer"
+    },
+    {
+      "day": "8.gün",
+      "subject": "Üslü Sayılar"
+    },
+    {
+      "day": "9.gün",
+      "subject": "Köklü Sayılar"
+    },
+    {
+      "day": "10.gün",
+      "subject": "Çarpanlara Ayırma"
+    },
+    {
+      "day": "11.gün",
+      "subject": "Oran Orantı"
+    },
+    {
+      "day": "12.gün",
+      "subject": "Denklem Çözme"
+    },
+    {
+      "day": "13.gün",
+      "subject": "Problemler"
+    },
+    {
+      "day": "14.gün",
+      "subject": "Problemler"
+    },
+    {
+      "day": "15.gün",
+      "subject": "Problemler"
+    },
+    {
+      "day": "16.gün",
+      "subject": "Problemler"
+    },
+    {
+      "day": "17.gün",
+      "subject": "Kümeler"
+    },
+    {
+      "day": "18.gün",
+      "subject": "Kartezyen Çarpım"
+    },
+    {
+      "day": "19.gün",
+      "subject": "Mantık"
+    },
+    {
+      "day": "20.gün",
+      "subject": "Fonskiyonlar"
+    },
+    {
+      "day": "21.gün",
+      "subject": "Polinomlar"
+    },
+    {
+      "day": "22.gün",
+      "subject": "2.Dereceden Denklemler"
+    },
+    {
+      "day": "23.gün",
+      "subject": "Permütasyon/Kombinasyon"
+    },
+    {
+      "day": "24.gün",
+      "subject": "Olasılık"
+    },
+    {
+      "day": "25.gün",
+      "subject": "İstatistik"
+    }
+  ]
+}
