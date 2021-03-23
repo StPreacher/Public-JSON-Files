@@ -3,127 +3,377 @@
     {
       "id": 0,
       "day": "1.gün",
-      "subject": "Temel Kavramlar"
+      "subject": "Temel Kavramlar",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+  
     },
     {
       "id": 1,
       "day": "2.gün",
-      "subject": "Sayı Basamakları"
+      "subject": "Sayı Basamakları",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 2,
       "day": "3.gün",
-      "subject": "Bölme/Bölünebilme"
+      "subject": "Bölme/Bölünebilme",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 3,
       "day": "4.gün",
-      "subject": "EBOB–EKOK"
+      "subject": "EBOB–EKOK",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 4,
       "day": "5.gün",
-      "subject": "Rasyonel Sayılar"
+      "subject": "Rasyonel Sayılar",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 5,
       "day": "6.gün",
-      "subject": "Basit Eşitsizlikler"
+      "subject": "Basit Eşitsizlikler",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 6,
       "day": "7.gün",
-      "subject": "Mutlak Değer"
+      "subject": "Mutlak Değer",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 7,
       "day": "8.gün",
-      "subject": "Üslü Sayılar"
+      "subject": "Üslü Sayılar",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 8,
       "day": "9.gün",
-      "subject": "Köklü Sayılar"
+      "subject": "Köklü Sayılar",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 9,
       "day": "10.gün",
-      "subject": "Çarpanlara Ayırma"
+      "subject": "Çarpanlara Ayırma",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 10,
       "day": "11.gün",
-      "subject": "Oran Orantı"
+      "subject": "Oran Orantı",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 11,
       "day": "12.gün",
-      "subject": "Denklem Çözme"
+      "subject": "Denklem Çözme",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 12,
       "day": "13.gün",
-      "subject": "Problemler"
+      "subject": "Problemler",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 13,
       "day": "14.gün",
-      "subject": "Problemler"
+      "subject": "Problemler",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 14,
       "day": "15.gün",
-      "subject": "Problemler"
+      "subject": "Problemler",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 15,
       "day": "16.gün",
-      "subject": "Problemler"
+      "subject": "Problemler",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 16,
       "day": "17.gün",
-      "subject": "Kümeler"
+      "subject": "Kümeler",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 17,
       "day": "18.gün",
-      "subject": "Kartezyen Çarpım"
+      "subject": "Kartezyen Çarpım",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 18,
       "day": "19.gün",
-      "subject": "Mantık"
+      "subject": "Mantık",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 19,
       "day": "20.gün",
-      "subject": "Fonskiyonlar"
+      "subject": "Fonskiyonlar",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 20,
       "day": "21.gün",
-      "subject": "Polinomlar"
+      "subject": "Polinomlar",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 21,
       "day": "22.gün",
-      "subject": "2.Dereceden Denklemler"
+      "subject": "2.Dereceden Denklemler",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 22,
       "day": "23.gün",
-      "subject": "Permütasyon/Kombinasyon"
+      "subject": "Permütasyon/Kombinasyon",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 23,
       "day": "24.gün",
-      "subject": "Olasılık"
+      "subject": "Olasılık",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     },
     {
       "id": 24,
       "day": "25.gün",
-      "subject": "İstatistik"
+      "subject": "İstatistik",
+      "details" : 
+      {
+      "yt_link1" : "",
+      "yt_link2" : "",
+      "yt_link3" : "",
+      "doc_link1" : "",
+      "doc_link2" : "",
+      "doc_link3" : ""
+      }
+      
     }
   ]
 }
